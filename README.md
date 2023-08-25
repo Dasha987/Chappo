@@ -1,7 +1,7 @@
 # Crappo - Описание проекта: Одностраничный сайт для работы с криптовалютой
 
 1. Источник макета:
-Макет проекта был взят из платформы дизайна интерфейсов Figma (https://www.figma.com/file/arQETgJy4OYfp2uK3FWoX4/Cryptocurrency-(Copy)?type=design&node-id=1%3A31&mode=design&t=s23P0zoC60yHz2UX-1).
+Макет проекта был взят из платформы дизайна интерфейсов [Figma](https://www.figma.com/file/arQETgJy4OYfp2uK3FWoX4/Cryptocurrency-(Copy)?type=design&node-id=1%3A31&mode=design&t=s23P0zoC60yHz2UX-1).
 
 2. Технологии разработки:
 - HTML (HyperText Markup Language): Используется для структурирования и разметки содержимого сайта.
